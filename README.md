@@ -5,9 +5,10 @@ Requirements:
 
 - Python 2.7
 - flask
+- [python-pushover](https://github.com/Thibauth/python-pushover)
 - plex
 - [plex webhooks configured](https://support.plex.tv/articles/115002267687-webhooks/)
-- pushover
+- [pushover account](https://pushover.net)
 - [pushover application](https://pushover.net/apps/build) (`plex-notify`)
 
 ### Configuration
